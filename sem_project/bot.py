@@ -15,7 +15,7 @@ replicate_api = os.environ.get('REPLICATE_API_TOKEN', "")
 
 
 
-llm = 'replicate/llama70b-v2-chat:e951f18578850b652510200860fc4ea62b3b16fac280f83ff32282f87bbd2e48'
+llm = ''
 
 
 
