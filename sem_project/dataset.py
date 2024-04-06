@@ -6,7 +6,7 @@ from typing import List
 
 
 config = dotenv_values('.env')
-client = Client(api_key="M8BDmYnZO3QA8LzbPp3OE6jq093pSL7CK8Ihd0XwamczUZqL6bU9UiZL4ooHrNLc",api_secret="Ryzjbrea5XVQbzid2Okr47J6o4OFPLkPgQivP2y9APtYAYt7xOwrclskHreYAE62")
+client = Client(api_key="",api_secret="")
 
 
 class Dataset:
