@@ -36,13 +36,21 @@ TradeIn is an intelligent trading bot powered by Deep Q-Learning, designed to an
 
    ```bash
    git clone https://github.com/yourusername/TradeIn.git
-   
+   ```
 2.Navigate to the project directory:
-
+ ```bash
+   cd sem_project
+   ```
 3.Install the required libraries:
-    pip install -r requirements.txt
+ ```bash
+   pip install -r requirements.txt
 
+   ```
+   
 4.Set up your environment variables for Binance API:
-    export BINANCE_API_KEY=your_api_key
-    export BINANCE_API_SECRET=your_api_secret
-    ```
+ ```bash
+  export BINANCE_API_KEY=your_api_key
+  export BINANCE_API_SECRET=your_api_secret
+   ```
+    
+    
